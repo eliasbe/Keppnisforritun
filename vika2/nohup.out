@@ -1,0 +1,62 @@
+[I 2022-01-18 15:40:22.754 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-01-18 15:40:22.946 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-01-18 15:40:23.004 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-01-18 15:40:23.004 LabApp] JupyterLab extension loaded from /opt/homebrew/Caskroom/miniforge/base/lib/python3.9/site-packages/jupyterlab
+[I 2022-01-18 15:40:23.004 LabApp] JupyterLab application directory is /opt/homebrew/Caskroom/miniforge/base/share/jupyter/lab
+[I 2022-01-18 15:40:23.006 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-01-18 15:40:23.007 ServerApp] Serving notebooks from local directory: /Users/k/Documents/CS HI/2021-22/Vor/Keppnisforritun/vika2
+[I 2022-01-18 15:40:23.007 ServerApp] Jupyter Server 1.13.1 is running at:
+[I 2022-01-18 15:40:23.007 ServerApp] http://localhost:8888/lab?token=410ff9ed0271df62624b82f05e098ee02876140c09686535
+[I 2022-01-18 15:40:23.007 ServerApp]  or http://127.0.0.1:8888/lab?token=410ff9ed0271df62624b82f05e098ee02876140c09686535
+[I 2022-01-18 15:40:23.007 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2022-01-18 15:40:23.013 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/k/Library/Jupyter/runtime/jpserver-6221-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=410ff9ed0271df62624b82f05e098ee02876140c09686535
+     or http://127.0.0.1:8888/lab?token=410ff9ed0271df62624b82f05e098ee02876140c09686535
+[W 2022-01-18 15:40:26.304 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-01-18 15:40:26.601 ServerApp] 404 GET /api/contents/Documents/CS%20HI/2021-22/Ma%CC%81lt%C3%A6kni.nosync/Scratch.ipynb?content=0&1642520426600 (127.0.0.1): No such file or directory: Documents/CS HI/2021-22/Máltækni.nosync/Scratch.ipynb
+[W 2022-01-18 15:40:26.601 ServerApp] No such file or directory: Documents/CS HI/2021-22/Máltækni.nosync/Scratch.ipynb
+[W 2022-01-18 15:40:26.601 ServerApp] 404 GET /api/contents/Documents/CS%20HI/2021-22/Ma%CC%81lt%C3%A6kni.nosync/Scratch.ipynb?content=0&1642520426600 (127.0.0.1) 1.48ms referer=http://localhost:8888/lab
+[W 2022-01-18 15:40:26.603 ServerApp] 404 GET /api/contents/Desktop/Uppskriftaskrifta.ipynb?content=0&1642520426600 (127.0.0.1): No such file or directory: Desktop/Uppskriftaskrifta.ipynb
+[W 2022-01-18 15:40:26.604 ServerApp] No such file or directory: Desktop/Uppskriftaskrifta.ipynb
+[W 2022-01-18 15:40:26.604 ServerApp] 404 GET /api/contents/Desktop/Uppskriftaskrifta.ipynb?content=0&1642520426600 (127.0.0.1) 4.23ms referer=http://localhost:8888/lab
+[W 2022-01-18 15:40:26.604 ServerApp] 404 GET /api/contents/Desktop/untitled.py?content=0&1642520426600 (127.0.0.1): No such file or directory: Desktop/untitled.py
+[W 2022-01-18 15:40:26.604 ServerApp] No such file or directory: Desktop/untitled.py
+[W 2022-01-18 15:40:26.605 ServerApp] 404 GET /api/contents/Desktop/untitled.py?content=0&1642520426600 (127.0.0.1) 4.38ms referer=http://localhost:8888/lab
+[W 2022-01-18 15:40:27.184 ServerApp] 404 GET /api/contents/Desktop?1642520427200 (127.0.0.1): No such file or directory: Desktop
+[W 2022-01-18 15:40:27.184 ServerApp] No such file or directory: Desktop
+[W 2022-01-18 15:40:27.184 ServerApp] 404 GET /api/contents/Desktop?1642520427200 (127.0.0.1) 1.52ms referer=http://localhost:8888/lab
+[I 2022-01-18 15:40:34.803 ServerApp] Creating new notebook in 
+[I 2022-01-18 15:40:35.078 ServerApp] Kernel started: e8a64e61-7c53-449d-8a9e-7ef222a5df25
+[I 2022-01-18 15:42:34.985 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 15:44:35.043 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 15:46:35.103 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 15:48:35.164 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 15:50:35.217 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 15:54:35.666 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 15:56:35.742 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 15:58:35.816 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:00:35.884 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:02:35.941 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:04:36.064 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:06:36.140 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:08:36.212 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:10:36.283 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:12:36.594 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:14:36.699 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:16:36.763 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:18:36.822 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:20:36.876 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:22:36.952 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:24:37.030 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:26:37.112 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-18 16:28:37.210 ServerApp] Saving file at /pipes.ipynb
+[I 2022-01-26 23:02:49.074 ServerApp] Starting buffering for e8a64e61-7c53-449d-8a9e-7ef222a5df25:36b1fb31-9c2e-4af9-a4f5-0d071ac6359a
+[C 2022-01-26 23:12:18.557 ServerApp] received signal 15, stopping
+[I 2022-01-26 23:12:18.565 ServerApp] Shutting down 2 extensions
+[I 2022-01-26 23:12:18.566 ServerApp] Shutting down 1 kernel
+[I 2022-01-26 23:12:18.571 ServerApp] Kernel shutdown: e8a64e61-7c53-449d-8a9e-7ef222a5df25
+[I 2022-01-26 23:12:19.392 ServerApp] Shutting down 0 terminals
