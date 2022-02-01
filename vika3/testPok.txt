@@ -1,0 +1,59 @@
+18
+5
+E E
+E N
+E E
+E E
+E N
+3
+N E
+N E
+E N
+2
+N N
+N N
+2
+N N
+N E
+2
+N N
+E N
+2
+N N
+E E
+2
+N E
+N N
+2
+N E
+N E
+2
+N E
+E N
+2
+N E
+E E
+2
+E N
+N N
+2
+E N
+N E
+2
+E N
+E N
+2
+E N
+E E
+2
+E E
+N N
+2
+E E
+N E
+2
+E E
+E N
+2
+E E
+E E
